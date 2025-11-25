@@ -1,8 +1,7 @@
 {
   "content" : {
-    "description" : "Mapping for testing Edit changes. ",
     "allowMaxFieldLength" : "false",
-    "name" : "Versioned Mapping - Edit",
+    "name" : "Versioned Mapping - Move",
     "specialCharacterSupport" : "false",
     "links" : [
       {
@@ -11,7 +10,7 @@
     ],
     "transformations" : [
       {
-        "createTime" : "2019-06-14T18:22:04.229Z",
+        "createTime" : "2019-06-14T18:22:32.272Z",
         "name" : "Source",
         "groups" : [
           {
@@ -37,7 +36,7 @@
         }
       },
       {
-        "createTime" : "2019-06-14T18:22:04.233Z",
+        "createTime" : "2019-06-14T18:22:32.280Z",
         "name" : "Target",
         "groups" : [
           {
@@ -82,5 +81,5 @@
       }
     ]
   },
-  "vcsExportTime" : "2025-11-25 07:07:01 PST"
+  "vcsExportTime" : "2025-11-25 07:07:02 PST"
 }
